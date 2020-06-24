@@ -26,3 +26,5 @@ result is stored in object n2.
 
 A user defined tidy2 function is used to compute the mean of each of the variables
 with respect to each individual and what activity they are performing.
+
+The tidy data is uploaded as an excel file named tidydata
